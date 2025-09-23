@@ -13,7 +13,6 @@ class P44_Swap
         echo "\nGive two indices to swap:\n";
 
         $index1 = (int)trim(fgets($GLOBALS['STDIN'] ?? STDIN));
-
         $index2 = (int)trim(fgets($GLOBALS['STDIN'] ?? STDIN));
 
 
