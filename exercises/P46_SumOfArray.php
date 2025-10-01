@@ -11,6 +11,6 @@ class P46_SumOfArray
     public function sumOfNumbersInArray(array $array): int
     {
         // Write your code here
-       
+        return array_sum($array);
     }
 }

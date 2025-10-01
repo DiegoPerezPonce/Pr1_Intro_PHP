@@ -4,7 +4,7 @@ class P42_SumOfASequence
 {
     public function main(): void
     {
-        // Leer número desde STDIN
+        // Write your program here
         $n = (int) trim(fgets($GLOBALS['STDIN'] ?? STDIN));
 
         $sum = 0;
